@@ -14,7 +14,7 @@ To use the notebooks make sure you have installed:
 Clone the repository from GitHub:
 
 ```bash
-[git clone https://github.com/lucijakrusic/programming1WS22.git]
+git clone https://github.com/lucijakrusic/programming1WS22.git
 ```
 
 Then change into `programming1WS22` directory and start the Jupyter server:
