@@ -14,13 +14,13 @@ To use the notebooks make sure you have installed:
 Clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/gvasold/gdp22.git
+[git clone https://github.com/lucijakrusic/programming1WS22.git]
 ```
 
-Then change into `gdp22` directory and start the Jupyter server:
+Then change into `programming1WS22` directory and start the Jupyter server:
 
 ```bash
-cd gdp
+cd programming1WS22
 ```
 
 ```bash
@@ -33,7 +33,7 @@ or, if you have installed jupyterlab:
 jupyter-lab
 ```
 
-This will bring up your browser and will show you the contents of the `gdp` directory.
+This will bring up your browser and will show you the contents of the `programming1WS22` directory.
 
 
 
