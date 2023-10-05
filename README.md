@@ -1,5 +1,9 @@
 # programming1WS22
-The repository of the course "Programming 1" at UNI Graz, winter semester 22/23
+The repository of the course "Programming 1" at UNI Graz.
+
+- winter semester 22/23, winter semester 23/24
+
+  Course adapted from:  https://github.com/gvasold/gdp21 by Gunter Vasold.
 
 It will contain all Jupyter Notebooks and example data that we will use during the course. All notebooks will be in English.
 
